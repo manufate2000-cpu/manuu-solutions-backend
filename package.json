@@ -1,0 +1,13 @@
+
+{
+  "name": "manuu-solutions-backend",
+  "version": "1.0.0",
+  "description": "Backend API for MANUU Solutions",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
